@@ -1,1 +1,1 @@
-harmonic mean using arrays in functions
+harmonic mean using arrays in functions	
